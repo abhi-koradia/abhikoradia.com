@@ -713,6 +713,13 @@ h2.contact.menu-item::before {
     position: absolute;
     top: 0;
 }
+
+.tv-section-heading p1 {
+    line-height: 1;
+    left: 250px;
+    position: absolute;
+    top: 0;
+}
 .tv-about-details-info-list {
     border-bottom: 1px solid #ddd;
     border-top: 1px solid #ddd;
